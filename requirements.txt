@@ -1,0 +1,2 @@
+# Requires: unlikely-suspension
+# (Not available on PyPI)
